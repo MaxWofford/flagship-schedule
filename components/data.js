@@ -36,16 +36,16 @@ const schedule = [
       { name: 'Break-out sessions', start: '10:30 am', end: '11:30 am', flavor: 'breakout', summary: `
 **The Deck:** How to Start Your First Hackathon _Ran by Lachlan_
 
-**San Francisco:** Party Club _How to make your club a party for new members. Ran by Eureka._
+**San Francisco:** Party Club _How to make your club a party for new members. Ran by Eureka & Ethan._
 
 **Hong Kong:** Hacker Tools _Quick and dirty tools for the high speed hacker. Ran by Max Speed._
 ` },
       { name: 'Break-out sessions', start: '11:30 am', end: '12:30 pm', flavor: 'breakout', summary: `
-**The Deck:** Creative Marketing for CS Clubs _Ran by Matthew_
+**The Deck:** Beyond CS club _Ran by Megan_
 
-**San Francisco:** Diversity and Inclusion in Hackathons _Ran by Emily, Charissa, Lavi._
+**San Francisco:** Team building and inheritance _Ran by Mingjie & Sean_
 
-**Hong Kong:** Koding 4 Kids _Run by Ava and Jack._
+**Hong Kong:** Koding 4 Kids _Run by Ava & Jack._
 ` },
       { name: 'Lunch', subtitle: 'Sandwiches & Salads', start: '12:30 pm', end: '1:45 pm', flavor: 'food', summary: 'Catered by Bi-Rite' },
       { name: 'Break-out sessions', start: '1:45 pm', end: '2:30 pm', flavor: 'breakout', summary: `
@@ -53,7 +53,7 @@ const schedule = [
 
 **San Francisco:** Community @ Hackathons _Ran by Dave._
 
-**Hong Kong:** Green Hackathons _Run by Sean._
+**Hong Kong:** Running Environmentally Friendly Hackathons _Run by Sean._
 ` },
       { name: 'Office hours', start: '2:30 pm', end: '3:45 pm', flavor: 'office', summary: `
 Guests with available office hours:
@@ -62,15 +62,17 @@ Guests with available office hours:
 - Dave Fontenot, Founder of MachMatch, MHacks, Hackathon Hackers
 - Haya Odeh, Co-Founder and Product Designer of Repl.it
 - Jeremy Rossmann, Co-Founder of Make School
-- Sonia Sachar, MLH Coach
 - Zach Latta, Founder of Hack Club
+- Max Wofford, Ops at Hack Club
 
 You can request office hours with a random guest [here](https://forms.gle/Hus8GmbZjVBLdKVz9).
       ` },
       { name: 'Break-out sessions', start: '3:45 pm', end: '4:45 pm', flavor: 'breakout', summary: `
-**The Deck:** Beyond CS Club _Ran by Megan._
+**The Deck:** Creative Marketing for CS Clubs _Ran by Matthew_
 
-**San Francisco:** Team Building & Transition _Ran by Mingjie and Sean._
+**San Francisco:** Diversity and Inclusion in Hackathons _Ran by Emily, Charissa & Lavi._
+
+**Hong Kong:** Help Desk _A student-led "office-hour" session. Bring your questions about events and CS clubs, or email drafts that you are trying to improve. Ran by Mingjie, Megan & Sean._
 ` },
       { name: 'Closing remarks', start: '4:45 pm', end: '5:15 pm' },
       { name: 'Cybersecurity', subtitle: 'Hacker game', start: '5:15 pm', end: '6:15 pm', summary: 'War games, CTFs, hacker games. Lead by Dina and Charissa.' },
