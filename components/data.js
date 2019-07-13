@@ -55,7 +55,7 @@ const schedule = [
 
 **Hong Kong:** Community @ Hackathons _Ran by Dave._
 ` },
-      { name: 'Office hours', start: '2:30 pm', end: '3:45 pm', flavor: 'office', summary: `
+      { name: 'Office hours', start: '2:30 pm', end: '3:30 pm', flavor: 'office', summary: `
 Guests with available office hours:
 
 - Amjad Masad, Founder of Repl.it
@@ -67,16 +67,16 @@ Guests with available office hours:
 
 You can request office hours with a random guest [here](https://forms.gle/Hus8GmbZjVBLdKVz9).
       ` },
-      { name: 'Break-out sessions', start: '3:45 pm', end: '4:45 pm', flavor: 'breakout', summary: `
+      { name: 'Break-out sessions', start: '3:30 pm', end: '4:30 pm', flavor: 'breakout', summary: `
 **The Deck:** Creative Marketing for CS Clubs _Ran by Matthew_
 
 **San Francisco:** Diversity and Inclusion in Hackathons _Ran by Emily, Charissa & Lavi._
 
 **Hong Kong:** Help Desk _Bring anything you’d like to get a second opinion on—a sponsorship email template, a plan for fundraising options like summer camps, a marketing email, or whatever you want some help on! Ran by Mingjie, Megan & Sean._
 ` },
-      { name: 'Closing remarks', start: '4:45 pm', end: '5:15 pm' },
-      { name: 'Cybersecurity', subtitle: 'Hacker game', start: '5:15 pm', end: '6:15 pm', summary: 'War games, CTFs, hacker games. Lead by Dina and Charissa.' },
-      { name: 'Dinner', start: '6:15 pm', end: '8:15 pm', flavor: 'food' },
+      { name: 'Closing remarks', start: '4:30 pm', end: '5:00 pm' },
+      { name: 'Cybersecurity', subtitle: 'Hacker game', start: '5:00 pm', end: '6:00 pm', summary: 'War games, CTFs, hacker games. Lead by Dina and Charissa.' },
+      { name: 'Dinner', start: '6:00 pm', end: '8:15 pm', flavor: 'food' },
       { name: 'Unstructured Games', start: '8:15 pm', end: '10:00 pm' },
     ]
   },
