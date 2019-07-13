@@ -72,7 +72,7 @@ You can request office hours with a random guest [here](https://forms.gle/Hus8Gm
 
 **San Francisco:** Diversity and Inclusion in Hackathons _Ran by Emily, Charissa & Lavi._
 
-**Hong Kong:** Help Desk _A student-led "office-hour" session. Bring your questions about events and CS clubs, or email drafts that you are trying to improve. Ran by Mingjie, Megan & Sean._
+**Hong Kong:** Help Desk _Bring anything you’d like to get a second opinion on—a sponsorship email template, a plan for fundraising options like summer camps, a marketing email, or whatever you want some help on! Ran by Mingjie, Megan & Sean._
 ` },
       { name: 'Closing remarks', start: '4:45 pm', end: '5:15 pm' },
       { name: 'Cybersecurity', subtitle: 'Hacker game', start: '5:15 pm', end: '6:15 pm', summary: 'War games, CTFs, hacker games. Lead by Dina and Charissa.' },
