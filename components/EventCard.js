@@ -43,6 +43,10 @@ const Block = styled(Box)`
   ${props =>
     props.flavor == 'food' &&
     `background-color: ${theme.colors.orange} !important;`}
+  ${props =>
+      props.flavor == 'office' && `background-color: ${theme.colors.green} !important;`}
+  ${props =>
+      props.flavor == 'breakout' && `background-color: ${theme.colors.cyan} !important;`}
   
   ${props => (props.onClick === null) ? null :
   css`
@@ -100,7 +104,7 @@ class EventCard extends Component {
             <Text color="muted" mb={3}>
               {start}–{end}
             </Text>
-            <MD source={summary} />
+            <MD source={summary} renderers={{ link: props => (<a style={{textDecoration: 'underline'}} {...props} />)}} />
           </Modal>
         )}
         <Block

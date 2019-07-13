@@ -17,6 +17,7 @@ const Base = styled(Box).attrs({ px: [2, 4], pb: [4, 5] })`
 
 const DaySheet = styled(Sheet)`
   background: ${theme.colors.white};
+  overflow: visible;
   // @media (prefers-color-scheme: dark) {
   //   background: ${theme.colors.dark};
   // }
@@ -26,6 +27,7 @@ const DaySheet = styled(Sheet)`
 
 const DayHeading = styled(Heading.h2).attrs({ mt: 0 })`
   position: sticky;
+  top: 1em;
   display: block;
   width: 2.5em;
   z-index: 10;
