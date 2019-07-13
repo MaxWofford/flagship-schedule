@@ -48,12 +48,12 @@ const schedule = [
 **Hong Kong:** Koding 4 Kids _Run by Ava & Jack._
 ` },
       { name: 'Lunch', subtitle: 'Sandwiches & Salads', start: '12:30 pm', end: '1:45 pm', flavor: 'food', summary: 'Catered by Bi-Rite' },
-      { name: 'Break-out sessions', start: '1:45 pm', end: '2:30 pm', flavor: 'breakout', summary: `
+      { name: 'Break-out sessions', start: '1:30 pm', end: '2:30 pm', flavor: 'breakout', summary: `
 **The Deck:** Running Club Meetings Beyond the Workshops _Ran by Dina._
 
-**San Francisco:** Community @ Hackathons _Ran by Dave._
+**San Francisco:** Running Environmentally Friendly Hackathons _Run by Sean._
 
-**Hong Kong:** Running Environmentally Friendly Hackathons _Run by Sean._
+**Hong Kong:** Community @ Hackathons _Ran by Dave._
 ` },
       { name: 'Office hours', start: '2:30 pm', end: '3:45 pm', flavor: 'office', summary: `
 Guests with available office hours:
