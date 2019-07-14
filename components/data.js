@@ -98,7 +98,13 @@ Guests with available office hours:
 
 You can request office hours with a random guest at [here](https://forms.gle/Hus8GmbZjVBLdKVz9).
       ` },
-      { name: 'Break-out sessions', subtitle: 'TBA', start: '11:00 am', end: '12:00 pm', flavor: 'breakout' },
+      { name: 'Break-out sessions', start: '11:00 am', end: '12:00 pm', flavor: 'breakout', summary: `
+**The Deck:** Sponsorship _Ran by Megan_
+
+**San Francisco:** Designing the Game of Hack Club _Ran by Chris_
+
+**Ball Room:** Industry Panel
+` },
       { name: 'Lunch', start: '12:00 pm', end: '1:00 pm', flavor: 'food', summary: '' },
       { name: 'Closing ceremony', start: '1:15 pm', end: '2:00 pm' },
       { name: 'Venue closes', start: '4:45 pm', end: '5:30 pm', summary: '', flavor: 'closing' },
